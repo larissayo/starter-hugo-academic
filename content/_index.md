@@ -1,13 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Larissa Yocom
-date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Larissa Yocom
       image:
         filename: hero-academic.png
       cta:
