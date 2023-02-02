@@ -35,12 +35,6 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-
-  ---
-title: My page
-type: landing
-
-sections:
   - block: about.avatar
     id: about
     content:
@@ -50,9 +44,6 @@ sections:
       text: |>
         👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
         {style="font-size: 1.2rem; color: #FFB76B;} 
-
- 
- 
   - block: collection
     id: posts
     content:
