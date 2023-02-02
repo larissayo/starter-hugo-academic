@@ -9,6 +9,11 @@ bio: In my research group, we are interested in advancing research about the
 social:
   - display:
       header: false
+    link: "#contact"
+    icon_pack: far
+    icon: envelope
+  - display:
+      header: false
     icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?user=xbaUqHYAAAAJ&hl=en
