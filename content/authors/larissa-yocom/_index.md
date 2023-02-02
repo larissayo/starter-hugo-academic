@@ -12,5 +12,8 @@ social:
     icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?user=xbaUqHYAAAAJ&hl=en
+organizations:
+  - name: Utah State University
+    url: usu.edu
 superuser: false
 ---
