@@ -14,6 +14,6 @@ social:
     link: https://scholar.google.com/citations?user=xbaUqHYAAAAJ&hl=en
 organizations:
   - name: Utah State University
-    url: http://www.usu.edu
+    url: https://www.usu.edu
 superuser: false
 ---
