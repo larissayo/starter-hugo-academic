@@ -3,13 +3,14 @@ title: Kristin Nesbit publishes new review on aspen-fire relationship
 subtitle: A new Tamm Review in the journal Forest Ecology and Management reviews
   the complicated relationship between aspen and fire in North America.
 date: 2023-02-06T17:23:44.380Z
-summary: ""
+summary: A new Tamm Review in the journal Forest Ecology and Management reviews
+  the complicated relationship between aspen and fire in North America.
 draft: false
 featured: false
 authors:
   - admin
   - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
   - 开源
