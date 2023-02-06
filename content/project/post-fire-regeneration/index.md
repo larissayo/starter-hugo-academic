@@ -10,8 +10,9 @@ title: Post-fire regeneration
 tags: []
 links: []
 image:
-  caption: Photo by Larissa Yocom
+  caption: Photo by Mike Saemisch
   focal_point: Smart
+  filename: 2019ground1.jpg
 url_code: ""
 ---
 Given that fires, including large and severe fires, will certainly continue to burn, an understanding of post-fire vegetation response and regeneration is essential to understanding how fire severity, landscape attributes, pre-fire vegetation, and climate in the years following a fire interact to influence successional pathways and long-term patterns in forests. Post-fire forest dynamics have implications for timber, wildlife, grazing, watershed health and snowpack, and post-fire patterns influence the likelihood of subsequent disturbances such as reburns or pests and pathogens. 
