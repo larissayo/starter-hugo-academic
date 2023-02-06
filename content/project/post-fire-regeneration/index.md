@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: W﻿hat happens after the flames are extinguished?
+summary: ""
 url_video: ""
 date: 2023-02-06T20:06:00.631Z
 external_link: ""
