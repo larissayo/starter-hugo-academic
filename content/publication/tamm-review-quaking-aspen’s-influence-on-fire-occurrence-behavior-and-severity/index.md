@@ -45,9 +45,9 @@ summary: >-
   • Aspen can burn easily and intensely in windy, dry, or certain seasonal conditions.
 
   • Specific management guidelines for aspen fire risk reduction treatments are needed.
-url_dataset: ""
+#url_dataset: ""
 url_project: ""
-publication_short: ""
+#publication_short: ""
 url_source: ""
 url_video: ""
 title: "Tamm review: Quaking aspen’s influence on fire occurrence, behavior, and
@@ -63,8 +63,8 @@ image:
   preview_only: false
   filename: nesbit-2023-fig-1.jpg
 date: 2023-02-06T21:13:08.916Z
-url_slides: ""
+#url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
-url_poster: ""
+#url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
