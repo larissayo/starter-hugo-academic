@@ -1,11 +1,11 @@
 ---
-slides: example
+#slides: example
 url_pdf: ""
 summary: ""
 url_video: ""
 date: 2023-02-06T20:06:00.631Z
 external_link: ""
-url_slides: ""
+#url_slides: ""
 title: Post-fire regeneration
 tags: []
 links: []
