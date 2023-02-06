@@ -54,9 +54,9 @@ title: "Tamm review: Quaking aspen’s influence on fire occurrence, behavior, a
   severity"
 doi: https://doi.org/10.1016/j.foreco.2022.120752
 featured: false
-tags:
-  - Source Themes
-projects: []
+#tags:
+#  - Source Themes
+#projects: []
 image:
   caption: "Image credit: Kristin Nesbit"
   focal_point: ""
@@ -66,5 +66,5 @@ date: 2023-02-06T21:13:08.916Z
 #url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 #url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
