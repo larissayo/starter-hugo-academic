@@ -16,7 +16,7 @@ image:
   caption: "Image credit: Larissa Yocom"
   focal_point: ""
   placement: 2
-  preview_only: true
+  preview_only: false
   filename: aspen-burned-resprouts.jpg
 ---
 ### Highlights
