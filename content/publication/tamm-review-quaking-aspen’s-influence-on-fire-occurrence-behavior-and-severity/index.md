@@ -32,9 +32,9 @@ authors:
   - Allison M Trudgeon
   - R Justin DeRose
   - Paul C Rogers
-author_notes:
-  - Equal contribution
-  - Equal contribution
+#author_notes:
+#  - Equal contribution
+#  - Equal contribution
 publication: Forest Ecology and Management
 summary: >-
   • High variability in aspen stands makes fire activity in aspen difficult to
