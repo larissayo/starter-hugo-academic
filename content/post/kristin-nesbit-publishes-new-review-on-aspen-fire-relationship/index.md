@@ -6,16 +6,11 @@ date: 2023-02-06T17:23:44.380Z
 summary: ""
 draft: false
 featured: false
-authors:
-  - admin
-  - 吳恩達
+authors: []
 lastmod: 2020-12-13T00:00:00.000Z
-tags:
-  - Academic
-  - 开源
+tags: []
 categories:
-  - Demo
-  - 教程
+  - Papers
 projects: []
 image:
   caption: "Image credit: Larissa Yocom"
