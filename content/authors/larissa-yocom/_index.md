@@ -21,7 +21,7 @@ social:
       header: false
     icon_pack: ai
     icon: cv
-    link: https://github.com/larissayo/starter-hugo-academic/blob/main/static/uploads/Yocom_CV_public.pdf
+    link: larissayocom.com/uploads/Yocom_CV_public.pdf
 organizations:
   - name: Utah State University
     url: https://www.usu.edu
