@@ -17,6 +17,11 @@ social:
     icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?user=xbaUqHYAAAAJ&hl=en
+  - display:
+      header: false
+    icon_pack: ai
+    icon: cv
+    link: https://github.com/larissayo/starter-hugo-academic/blob/main/static/uploads/Yocom_CV_public.pdf
 organizations:
   - name: Utah State University
     url: https://www.usu.edu
