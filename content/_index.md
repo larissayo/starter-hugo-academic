@@ -248,7 +248,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
-    id: recent  
+    id: research  
     content:
       title: Recent Publications
 #      text: |-
