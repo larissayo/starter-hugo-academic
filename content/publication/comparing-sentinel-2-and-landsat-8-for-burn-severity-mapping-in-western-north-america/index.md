@@ -36,11 +36,12 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Kristin A Nesbit
-  - Larissa L Yocom
-  - Allison M Trudgeon
-  - R Justin DeRose
-  - Paul C Rogers
+  - Alexander A. Howe
+  - Sean A. Parks
+  - Brian J. Harvey
+  - Saba J. Saberi
+  - James A. Lutz
+  - Larissa L. Yocom
 doi: https://doi.org/10.3390/rs14205249
 featured: false
 summary: The Sentinel-2 constellation of Earth-observing satellites provides
