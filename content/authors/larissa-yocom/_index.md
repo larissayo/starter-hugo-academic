@@ -25,5 +25,5 @@ social:
 organizations:
   - name: Utah State University
     url: https://www.usu.edu
-superuser: false
+superuser: true
 ---
