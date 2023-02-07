@@ -13,6 +13,8 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      background:
+        image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   - block: collection
     id: people
     content:
