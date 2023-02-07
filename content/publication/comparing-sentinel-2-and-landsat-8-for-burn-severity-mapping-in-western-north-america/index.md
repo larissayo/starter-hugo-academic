@@ -32,7 +32,7 @@ abstract: Accurate assessment of burn severity is a critical need for an
   resolution improves opportunities for examining finer-scale fire effects
   across ecosystems.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
