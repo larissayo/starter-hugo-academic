@@ -4,7 +4,7 @@ title: Larissa Yocom
 type: landing
 
 sections:
-    - block: markdown
+   - block: markdown
     content:
       title: Welcome
       subtitle: We research forest and fire ecology and management.
