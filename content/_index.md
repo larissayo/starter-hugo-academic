@@ -7,8 +7,8 @@ sections:
   - block: markdown
     content:
       title: Welcome
-      subtitle: We research forest and fire ecology and management.
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      subtitle: In my research group, we are interested in advancing research about the ecological role of fire, how climate, fire and vegetation are related over time and space, and how management can promote the beneficial aspects of fire and minimize the negative consequences.
+      #text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
