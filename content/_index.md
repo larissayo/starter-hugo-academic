@@ -324,4 +324,16 @@ sections:
 #          captcha: false
 #    design:
 #      columns: '2'
+  - block: markdown
+    id: opportunities
+    content:
+      title: Opportunities
+      #subtitle: x
+      text: If you are interested in joining the lab, please contact me.
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      #background:
+      #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
 ---
