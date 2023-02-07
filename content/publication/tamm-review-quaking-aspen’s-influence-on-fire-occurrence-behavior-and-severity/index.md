@@ -1,4 +1,6 @@
 ---
+title: "Tamm review: Quaking aspen’s influence on fire occurrence, behavior, and
+  severity"
 abstract: Quaking aspen (Populus tremuloides Michx.) stands have historically
   been referred to as “firebreak” forest types that can reduce fire activity,
   but high-intensity and high-severity fires have been observed to burn through
@@ -32,10 +34,8 @@ authors:
   - Allison M Trudgeon
   - R Justin DeRose
   - Paul C Rogers
-#author_notes:
-#  - Equal contribution
-#  - Equal contribution
-publication: Forest Ecology and Management
+doi: https://doi.org/10.1016/j.foreco.2022.120752
+featured: false
 summary: >-
   • High variability in aspen stands makes fire activity in aspen difficult to
   predict.
@@ -45,26 +45,15 @@ summary: >-
   • Aspen can burn easily and intensely in windy, dry, or certain seasonal conditions.
 
   • Specific management guidelines for aspen fire risk reduction treatments are needed.
-#url_dataset: ""
 url_project: ""
-#publication_short: ""
 url_source: ""
 url_video: ""
-title: "Tamm review: Quaking aspen’s influence on fire occurrence, behavior, and
-  severity"
-doi: https://doi.org/10.1016/j.foreco.2022.120752
-featured: false
-#tags:
-#  - Source Themes
-#projects: []
+publication: Forest Ecology and Management
 image:
   caption: "Image credit: Kristin Nesbit"
   focal_point: ""
   preview_only: false
   filename: nesbit-2023-fig-1.jpg
-date: 2023-02-06T21:13:08.916Z
-#url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
-#url_poster: ""
-#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+date: 2023-02-07T18:41:55.128Z
+publishDate: 2017-01-01T00:00:00.000Z
 ---
