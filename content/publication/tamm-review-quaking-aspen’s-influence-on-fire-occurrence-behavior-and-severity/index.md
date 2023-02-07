@@ -25,7 +25,7 @@ abstract: Quaking aspen (Populus tremuloides Michx.) stands have historically
   and empirical evidence regarding aspen’s ability to inhibit fire requires
   further research.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
