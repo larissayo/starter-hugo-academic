@@ -19,7 +19,7 @@ featured: false
 tags:
   - Source Themes
 slides: example
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
