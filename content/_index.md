@@ -4,6 +4,38 @@ title: Larissa Yocom
 type: landing
 
 sections:
+  - block: collection
+    id: people
+    content:
+      title: People
+      subtitle: ''
+      #text: 'Check out my recent blog posts below!'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - authors
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: compact
+      # Choose single or dual column layout
+      columns: '1'
 #  - block: hero
 #    content:
 #      title: Larissa Yocom
@@ -34,13 +66,13 @@ sections:
 #        gradient_end: '#1976d2'
 #        gradient_start: '#004ba0'
 #        text_color_light: true
-  - block: about.avatar
-    id: about
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: larissa-yocom
-      # Override your bio text from `authors/admin/_index.md`?
-      text:
+#  - block: about.avatar
+#    id: about
+#    content:
+#      # Choose a user profile to display (a folder name within `content/authors/`)
+#      username: larissa-yocom
+#      # Override your bio text from `authors/admin/_index.md`?
+#      text:
 #  - block: features
 #    content:
 #      title: Skills
