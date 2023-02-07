@@ -17,13 +17,13 @@ sections:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
   - block: collection
     id: people
-      title: People
       widget: people
         headless: true  # This file represents a page section.
 
         # ... Put Your Section Options Here (title etc.) ...
 
         content:
+          title: People
           # Choose which groups/teams of users to display.
           #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
           user_groups:
