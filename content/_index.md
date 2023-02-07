@@ -202,9 +202,9 @@ sections:
 #      view: compact
 #      columns: '2'
   - block: portfolio
-    id: projects
+    id: research
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
@@ -248,7 +248,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
-    id: research  
+    id: recent  
     content:
       title: Recent Publications
 #      text: |-
