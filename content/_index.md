@@ -19,34 +19,57 @@ sections:
     id: people
     content:
       title: People
-      subtitle: ''
-      #text: 'Check out my recent blog posts below!'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - authors
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
-      # Choose single or dual column layout
-      columns: '1'
+      widget: people
+headless: true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
+
+content:
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+    - Faculty
+    - Grad Students
+    - Alumni
+design:
+  # Show user's social networking links? (true/false)
+  show_social: false
+  # Show user's interests? (true/false)
+  show_interests: true
+  # Show user's role?
+  show_role: true
+  # Show user's organizations/affiliations?
+  show_organizations: true
+      
+      
+#      subtitle: ''
+#      #text: 'Check out my recent blog posts below!'
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 0
+#      # Filter on criteria
+#      filters:
+#        # The folders to display content from
+#        folders:
+#          - authors
+#        author: ""
+#        category: ""
+#        tag: ""
+#        publication_type: ""
+#        featured_only: false
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#      # Choose how many pages you would like to offset by
+#      # Useful if you wish to show the first item in the Featured widget
+#      offset: 0
+#      # Field to sort by, such as Date or Title
+#      sort_by: 'Date'
+#      sort_ascending: false
+#    design:
+#      # Choose a listing view
+#      view: compact
+#      # Choose single or dual column layout
+#      columns: '1'
 #  - block: hero
 #    content:
 #      title: Larissa Yocom
