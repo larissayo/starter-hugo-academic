@@ -15,11 +15,10 @@ sections:
       columns: '1'
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
-  - block: collection
-    id: people
-      widget: people
+    widget: people
         headless: true  # This file represents a page section.
-
+        id: people
+        Title: People
         # ... Put Your Section Options Here (title etc.) ...
 
         content:
