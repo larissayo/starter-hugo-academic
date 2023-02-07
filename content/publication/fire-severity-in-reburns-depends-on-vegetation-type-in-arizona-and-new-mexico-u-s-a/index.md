@@ -23,7 +23,7 @@ abstract: After more than a century of low fire activity in the western United
   and work to maintain the fuel reduction effects they have on forested
   ecosystems.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
