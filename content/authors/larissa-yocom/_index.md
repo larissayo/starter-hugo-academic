@@ -6,6 +6,7 @@ bio: In my research group, we are interested in advancing research about the
   ecological role of fire, how climate, fire and vegetation are related over
   time and space, and how management can promote the beneficial aspects of fire
   and minimize the negative consequences.
+interests: []
 social:
   - display:
       header: false
