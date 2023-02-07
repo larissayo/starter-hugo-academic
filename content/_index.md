@@ -16,9 +16,9 @@ sections:
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
   - block: markdown
+    id: people
       widget: people
       headless: true  # This file represents a page section.
-      id: people
       Title: People
       # ... Put Your Section Options Here (title etc.) ...
 
