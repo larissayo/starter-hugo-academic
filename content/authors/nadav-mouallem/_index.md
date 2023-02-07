@@ -8,6 +8,8 @@ organizations:
   - name: Utah State University
     url: https://www.usu.edu
 superuser: false
+user_groups:
+  - Grad Students
 ---
 <!--StartFragment-->
 
