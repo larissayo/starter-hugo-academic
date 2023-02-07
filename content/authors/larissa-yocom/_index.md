@@ -27,4 +27,6 @@ organizations:
   - name: Utah State University
     url: https://www.usu.edu
 superuser: true
+user_groups:
+  - Faculty
 ---
