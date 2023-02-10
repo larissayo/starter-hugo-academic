@@ -18,7 +18,7 @@ sections:
   - block: markdown
     id: people
     content:
-        widget: people
+        type: widget_page
 #      subtitle: ''
 #      #text: 'Check out my recent blog posts below!'
 #      # Choose how many pages you would like to display (0 = all pages)
