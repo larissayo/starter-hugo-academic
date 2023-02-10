@@ -1,6 +1,8 @@
 ---
 title: Alex Howe
 role: Graduate Student
+authors:
+- alex-howe
 avatar_filename: alex_crop.jpeg
 bio: ""
 social: []
