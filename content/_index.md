@@ -19,6 +19,7 @@ sections:
     id: people
     content:
         type: widget_page
+        widget: people
 #      subtitle: ''
 #      #text: 'Check out my recent blog posts below!'
 #      # Choose how many pages you would like to display (0 = all pages)
