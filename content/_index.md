@@ -19,8 +19,8 @@ sections:
     headless: true
     active: true
     id: people
+    title: People
     content:
-        title: People
         user_groups:
         - Grad Students
     design:
