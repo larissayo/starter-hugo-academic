@@ -17,6 +17,7 @@ sections:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
   - widget: people
     headless: true
+    active: true
     id: people
     content:
         title: People
