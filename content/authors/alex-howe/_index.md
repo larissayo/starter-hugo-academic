@@ -15,6 +15,11 @@ social:
     icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=3ONsomoAAAAJ&hl=en&oi=sra
+  - display:
+      header: false
+    link: "mailto: alex.howe@usu.edu"
+    icon_pack: far
+    icon: envelope
 user_groups:
   - Grad Students
 ---
