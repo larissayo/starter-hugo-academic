@@ -22,6 +22,11 @@ sections:
         title: People
         user_groups:
         - Grad Students
+    design:
+      show_social: false
+      show_interests: false
+      show_role: true
+      show_organizations: false
   - block: portfolio
     id: research
     content:
