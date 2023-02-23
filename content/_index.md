@@ -15,7 +15,7 @@ sections:
       columns: '1'
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
-  - block: people
+  - widget: people
     id: people
     content:
         title: People
