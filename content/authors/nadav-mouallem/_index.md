@@ -1,7 +1,7 @@
 ---
 title: Nadav Mouallem
 role: Graduate Student
-avatar_filename: nadav_van.jpg
+avatar_filename: avatar.jpg
 bio: ""
 social: []
 organizations:
