@@ -1,6 +1,8 @@
 ---
 title: Larissa Yocom
 role: Assistant Professor, Fire Ecology and Management
+authors:
+- larissa-yocom
 avatar_filename: dsc_0229_credit.jpg
 bio: In my research group, we are interested in advancing research about the
   ecological role of fire, how climate, fire and vegetation are related over
