@@ -15,11 +15,14 @@ sections:
       columns: '1'
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
-  - block: people
-    id: people
+  - block: markdown
     content:
       title: People
-      user_groups: Faculty
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
   - block: portfolio
     id: research
     content:
