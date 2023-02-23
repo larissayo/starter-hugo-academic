@@ -15,10 +15,13 @@ sections:
       columns: '1'
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
-  - block: markdown
+  - block: collection
     id: people
     content:
-        widget: people
+        title: People
+        filters:
+          folders:
+            - authors
   - block: portfolio
     id: research
     content:
