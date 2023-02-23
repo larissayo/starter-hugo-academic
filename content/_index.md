@@ -16,12 +16,10 @@ sections:
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
   - block: people
-    #headless: true
-    #active: true
     id: people
-    title: People
     content:
-        user_groups:
+      title: People
+      user_groups:
         - Grad Students
     design:
       show_social: false
