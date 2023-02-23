@@ -3,7 +3,12 @@ title: Megan Whetzel
 role: Graduate Student
 avatar_filename: avatar.jpg
 bio: ""
-social: []
+social:
+  - display:
+      header: false
+    link: "mailto: megan.whetzel@usu.edu"
+    icon_pack: far
+    icon: envelope
 organizations:
   - name: Utah State University
     url: https://www.usu.edu
