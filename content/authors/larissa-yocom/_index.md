@@ -16,7 +16,7 @@ interests: []
 social:
   - display:
       header: false
-    link: "#contact"
+    link: "mailto: larissa.yocom@usu.edu"
     icon_pack: far
     icon: envelope
   - display:
@@ -32,3 +32,4 @@ social:
 user_groups:
   - Faculty
 ---
+L﻿arissa has been at Utah State since 2017. Prior to that she was a researcher and instructor at Northern Arizona University. She has a PhD in Forest Ecology from Northern Arizona University and also holds degrees from the Yale School of the Environment and Pomona College.
