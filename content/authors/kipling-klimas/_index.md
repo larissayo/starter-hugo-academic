@@ -1,7 +1,7 @@
 ---
 title: Kipling Klimas
 role: Graduate Student
-avatar_filename: kipling.jpg
+avatar_filename: avatar.jpg
 bio: ""
 social: []
 organizations:
