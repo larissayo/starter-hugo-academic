@@ -16,12 +16,12 @@ sections:
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
   - widget: people
+    headless: true
     id: people
     content:
         title: People
-        filters:
-          folders:
-            - authors
+        user_groups:
+        - Grad Students
   - block: portfolio
     id: research
     content:
