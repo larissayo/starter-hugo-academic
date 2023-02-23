@@ -1,7 +1,7 @@
 ---
 title: Megan Whetzel
 role: Graduate Student
-avatar_filename: megan.jpg
+avatar_filename: avatar.jpg
 bio: ""
 social: []
 organizations:
