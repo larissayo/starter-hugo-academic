@@ -15,11 +15,11 @@ sections:
       columns: '1'
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
-  - block: about.avatar
+  - block: people
     id: people
     content:
       title: People
-      username: larissa-yocom
+      user_groups: Faculty
   - block: portfolio
     id: research
     content:
