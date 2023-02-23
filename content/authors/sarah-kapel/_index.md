@@ -1,7 +1,7 @@
 ---
 title: Sarah Kapel
 role: Graduate Student
-avatar_filename: kapel_photo.jpg
+avatar_filename: avatar.jpg
 bio: ""
 social: []
 organizations:
