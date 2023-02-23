@@ -3,7 +3,12 @@ title: Sarah Kapel
 role: Graduate Student
 avatar_filename: avatar.jpg
 bio: ""
-social: []
+social:
+  - display:
+      header: false
+    link: "mailto: Sarah Kapel"
+    icon_pack: far
+    icon: envelope
 organizations:
   - name: Utah State University
     url: https://www.usu.edu
