@@ -16,7 +16,7 @@ sections:
       #background:
       #  image = "aspen_regen_glowing.jpg"  # Name of image in `static/img/`.
   - block: markdown
-    id: authors
+    id: people
     content:
         title: People
         filters:
