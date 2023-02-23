@@ -19,7 +19,7 @@ sections:
     id: people
     content:
       title: People
-      username: larissa_yocom
+      username: alex-howe
   - block: portfolio
     id: research
     content:
