@@ -9,7 +9,12 @@ authors:
   - alex-howe
 avatar_filename: avatar.jpeg
 bio: ""
-social: []
+social:
+  - display:
+      header: false
+    icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3ONsomoAAAAJ&hl=en&oi=sra
 user_groups:
   - Grad Students
 ---
