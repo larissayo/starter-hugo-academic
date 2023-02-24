@@ -1,5 +1,6 @@
 ---
 title: Kristin Nesbit
+role: MS 2022
 avatar_filename: avatar.jpeg
 social: []
 superuser: false
