@@ -1,6 +1,6 @@
 ---
 title: Jamela Thompson
-role: MS 2022
+role: MS 2022/2023
 avatar_filename: avatar.jpg
 social: []
 superuser: false
