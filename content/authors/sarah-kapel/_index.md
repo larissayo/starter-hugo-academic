@@ -14,7 +14,7 @@ organizations:
     url: https://www.usu.edu
 superuser: false
 user_groups:
-  - Grad Students
+  - Current
 ---
 <!--StartFragment-->
 
