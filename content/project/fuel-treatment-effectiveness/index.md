@@ -1,6 +1,11 @@
 ---
 url_pdf: ""
-summary: ""
+summary: Fuel treatments such as prescribed fire and mechanical treatments are
+  tools used widely by land managers to meet objectives such as reduction of
+  fire area burned, reduction of fire behavior variables such as flame length
+  and rate of spread, and reduction of fire severity. Understanding where and
+  when these treatments are effective in meeting land management objectives is
+  useful for prioritizing future work.
 url_video: ""
 title: Fuel treatment effectiveness
 date: 2023-02-23T23:36:38.001Z
