@@ -13,7 +13,7 @@ tags: []
 external_link: ""
 links: []
 image:
-  caption: Photo by Mike Saemisch
+  caption: Photo by Larissa Yocom
   focal_point: Smart
   filename: img_1333.jpg
 url_code: ""
