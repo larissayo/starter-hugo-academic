@@ -1,5 +1,6 @@
 ---
 title: Mark Kreider
+role: Alum
 avatar_filename: avatar.jpg
 social: []
 superuser: false
