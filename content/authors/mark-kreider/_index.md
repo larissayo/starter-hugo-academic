@@ -1,6 +1,6 @@
 ---
 title: Mark Kreider
-role: MS 2021
+role: MS 2020/2021
 avatar_filename: avatar.jpg
 social: []
 superuser: false
