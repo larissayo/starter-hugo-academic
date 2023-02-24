@@ -10,7 +10,7 @@ links: []
 image:
   caption: Photo by Mike Saemisch
   focal_point: Smart
-  filename: 2019ground1.jpg
+  filename: img_1333.jpg
 url_code: ""
 ---
 **Fuel treatment effectiveness in Utah.** Fuel treatments such as prescribed fire and mechanical treatments are tools used widely by land managers to meet objectives such as reduction of fire area burned, reduction of fire behavior variables such as flame length and rate of spread, and reduction of fire severity. In the face of a warming climate and increasing fire severity, land management agencies are allocating significant resources to this area. Former graduate student Jamela Thompson led a project using broad-scale spatial analysis to assess the effectiveness of fuel treatments in meeting land management objectives in Utah.
