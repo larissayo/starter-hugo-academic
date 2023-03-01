@@ -13,7 +13,7 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      #background:
+      background:
         image = "aspen mixed con crop.jpg"  # Name of image in `static/img/`.
   - block: portfolio
     id: research
