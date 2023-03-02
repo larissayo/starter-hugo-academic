@@ -55,4 +55,7 @@ sections:
       background:
         image:
           filename: LaSalscrop.jpg  # Name of image in `static/img/`.
+          filters:
+            brightness: 0.6
+        text_color_light: true
 ---
