@@ -16,6 +16,9 @@ sections:
       background:
         image:
           filename: aspenmixedconcrop.jpg  # Name of image in `static/img/`.
+          filters:
+            brightness: 0.6
+          text_color_light: true
   - block: portfolio
     id: research
     content:
