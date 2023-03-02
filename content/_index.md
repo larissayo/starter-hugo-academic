@@ -50,7 +50,7 @@ sections:
     content:
       title: Opportunities
       #subtitle: x
-      text: If you are interested in joining the lab, please contact me.
+      text: If you are interested in joining the lab, please [contact me](mailto:larissa.yocom@usu.edu).
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
