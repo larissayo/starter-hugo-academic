@@ -3,7 +3,7 @@ url_pdf: ""
 summary: What are best practices for successfully planting aspen in post-fire settings?
 url_video: ""
 title: Planting aspen in high-severity fire footprints
-date: 2023-03-01T17:51:17.462Z
+date: 2023-03-07T23:20:31.029Z
 tags: []
 external_link: ""
 links: []
