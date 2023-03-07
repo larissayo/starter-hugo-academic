@@ -3,7 +3,7 @@ url_pdf: ""
 summary: W﻿hen and where do aspen forests change fire behavior or effects?
 url_video: ""
 title: Aspen as a fuel break
-date: 2023-03-01T17:42:43.900Z
+date: 2023-03-07T23:20:19.702Z
 tags: []
 external_link: ""
 links: []
