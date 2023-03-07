@@ -3,7 +3,7 @@ url_pdf: ""
 summary: W﻿hat predicts natural tree regeneration after one or more fires?
 url_video: ""
 title: Post-fire conifer and aspen regeneration
-date: 2023-03-07T23:17:10.918Z
+date: 2023-03-07T23:20:51.277Z
 tags: []
 external_link: ""
 links: []
