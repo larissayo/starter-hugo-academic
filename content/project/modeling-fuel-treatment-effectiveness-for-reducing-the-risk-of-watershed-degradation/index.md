@@ -5,7 +5,7 @@ summary: H﻿ow can fuel treatments reduce the risk of downstream damage to
 url_video: ""
 title: Modeling fuel treatment effectiveness for reducing the risk of watershed
   degradation
-date: 2023-03-01T17:39:29.672Z
+date: 2023-03-07T23:20:41.941Z
 tags: []
 external_link: ""
 links: []
