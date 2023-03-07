@@ -4,7 +4,7 @@ summary: Where and when are fuel treatments effective in meeting land management
   objectives?
 url_video: ""
 title: Fuel treatment effectiveness in Utah
-date: 2023-02-23T23:36:38.001Z
+date: 2023-03-07T23:20:05.205Z
 tags: []
 external_link: ""
 links: []
