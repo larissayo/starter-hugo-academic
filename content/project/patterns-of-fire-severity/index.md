@@ -3,7 +3,7 @@ url_pdf: ""
 summary: P﻿atterns and trends in fire severity
 url_video: ""
 title: Patterns of fire severity
-date: 2023-03-01T18:02:25.718Z
+date: 2023-03-07T23:19:47.029Z
 tags: []
 external_link: ""
 links: []
