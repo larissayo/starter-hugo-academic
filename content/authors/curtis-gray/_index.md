@@ -23,7 +23,7 @@ social:
   - display:
       header: false
     link: https://sites.google.com/view/curtisgray/home
-    icon_pack: far
+    icon_pack: fas
     icon: house
 user_groups:
   - Current
