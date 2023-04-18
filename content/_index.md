@@ -19,7 +19,7 @@ sections:
           filters:
             brightness: 0.6
         text_color_light: true
-    - block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts
