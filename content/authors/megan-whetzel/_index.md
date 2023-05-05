@@ -1,6 +1,6 @@
 ---
 title: Megan Whetzel
-role: Graduate Student
+role: MS 2023
 avatar_filename: avatar.jpg
 bio: ""
 social:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.usu.edu
 superuser: false
 user_groups:
-  - Current
+  - Alumni
 ---
 <!--StartFragment-->
 
