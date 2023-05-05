@@ -9,4 +9,4 @@ image:
   preview_only: false
   caption: Kristin Nesbit, Megan Whetzel, and Courtney Check
 ---
-New lab alums: K﻿ristin Nesbit, Megan Whetzel, and Emily Lane (not pictured) all walked at the 2023 QCNR graduation ceremony.
+New lab alums: K﻿ristin Nesbit, Megan Whetzel, and Emily Lane (not pictured) all walked at the 2023 QCNR graduation ceremony. Congratulations!
