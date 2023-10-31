@@ -1,5 +1,5 @@
 ---
-role: Assistant Professor, Fire Ecology and Management
+role: Associate Professor, Fire Ecology and Management
 avatar_filename: avatar.jpg
 organizations:
   - name: Utah State University
