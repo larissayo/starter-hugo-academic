@@ -1,7 +1,7 @@
 ---
 title: Annie Prescott
 role: Graduate Student
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: ""
 social:
   - display:
