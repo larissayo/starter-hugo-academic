@@ -6,7 +6,7 @@ bio: ""
 social:
   - display:
       header: false
-    link: "mailto: Sarah Kapel"
+    link: "mailto: Sarah.Kapel@usu.edu"
     icon_pack: far
     icon: envelope
 organizations:
