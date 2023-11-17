@@ -16,4 +16,4 @@ superuser: false
 user_groups:
   - Current
 ---
-Kirstie is working on a project designed to understand how fuel treatments in Utah forests impact native pollinators. Her research advisor is Kelsey Graham at the USDA Agricultural Research Service Pollinating Insects Unit (aka the Bee Lab). She graduated with a BS from the University of Utah.
+Kirstie graduated from the University of Utah in 2016 with a bachelor’s degree in Biology with an Environmental and Organismal emphasis. Since then, she has worked for the National Council for Air and Stream Improvement, Inc. where she conducted pollinator surveys and pollinator habitat assessments in both Oregon and California. Following that she worked for the USDA-ARS conducting rare plant and pollinator surveys in the Mojave Desert. She started as a MS student at USU in August 2023 and her research focuses on the potential impacts of forest management practices on native pollinators. Her primary research advisor is Kelsey Graham, a researcher with the USDA-ARS.
