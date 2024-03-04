@@ -1,5 +1,5 @@
 ---
-title: Megan Whetzel successfully defended her thesis!
+title: Megan Whetzel successfully defended her thesis
 subtitle: ""
 date: 2023-04-24T22:04:01.237Z
 draft: false
