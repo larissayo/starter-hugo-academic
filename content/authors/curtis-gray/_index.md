@@ -25,7 +25,6 @@ social:
     link: https://sites.google.com/view/curtisgray/home
     icon_pack: fas
     icon: house
-user_groups:
-  - Current
+user_groups: []
 ---
 Curtis earned a PhD in Forest Ecology at Utah State University where he examined the impact of climate variability on the frequency and severity of ecological disturbances in Great Basin bristlecone pine sky islands. He has a master’s degree in Geography (Remote Sensing/GIS) from San Diego State University and a bachelor’s degree in Environmental Studies/Geography from UCSB. Prior to coming to Utah State University he worked as an ecologist for California State Parks and as a GIS consultant for CalFIRE and the US Forest Service Remote Sensing Laboratory.
