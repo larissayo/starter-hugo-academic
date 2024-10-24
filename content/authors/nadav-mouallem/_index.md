@@ -1,6 +1,6 @@
 ---
 title: Nadav Mouallem
-role: Graduate Student
+role: MS 2024
 avatar_filename: avatar.jpg
 bio: ""
 social:
