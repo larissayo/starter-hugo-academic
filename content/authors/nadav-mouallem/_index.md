@@ -3,12 +3,7 @@ title: Nadav Mouallem
 role: MS 2024
 avatar_filename: avatar.jpg
 bio: ""
-social:
-  - display:
-      header: false
-    link: "mailto: nadav.mouallem@usu.edu"
-    icon_pack: far
-    icon: envelope
+social: []
 organizations:
   - name: Utah State University
     url: https://www.usu.edu
